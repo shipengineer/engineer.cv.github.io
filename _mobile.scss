@@ -1,0 +1,13 @@
+@media (width <= 425px) {
+  body {
+    flex-wrap: wrap;
+    width: 100vw;
+  }
+  .right {
+    padding-left: 0px;
+  }
+  .left {
+    padding-top: 10px;
+    padding-left: 0px;
+  }
+}
